@@ -11,10 +11,10 @@
 <img width="1322" height="175" alt="Image" src="https://github.com/user-attachments/assets/75b25a9b-3838-4961-9775-500fd575c4a7" />
 
 - hiển thị thông tin phần cứng
-<img width="1322" height="175" alt="Image" src="https://github.com/user-attachments/assets/75b25a9b-3838-4961-9775-500fd575c4a7" />
 
+![Image](https://github.com/user-attachments/assets/21475082-bb98-478f-b4fb-18048351a36e)
 - Sử dụng các lệnh Uboot có phản hồi
-<img width="1422" height="511" alt="Image" src="https://github.com/user-attachments/assets/7f12aa77-de1e-44c7-a627-25eee538ab47" 
+![Image](https://github.com/user-attachments/assets/5f69e6c1-1f15-4c1c-aa89-adffc198e625)
 # Biên dịch và cài Kernel
 1. Biên dịch thành công Kernel cho BBB sử dụng Toolchain đồng nhất với với Uboot (ZImage + dtb file)
 ![Image](https://github.com/user-attachments/assets/fc4d1530-7f14-4230-b1d6-09fd5df1e2fc)
